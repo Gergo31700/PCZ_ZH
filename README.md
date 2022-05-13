@@ -1,4 +1,4 @@
-# A programozás módszertana I. Pót ZH - C2 csoport
+_#_ A programozás módszertana I. Pót ZH - C2 csoport
 
 A dolgozathoz csak és kizárólag a saját, korábban megírt kódok használhatóak. Minden más segítég tilos!
 

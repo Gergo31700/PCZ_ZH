@@ -10,8 +10,7 @@ public class MatrixTest {
     private static final Random RANDOM_GENERATOR = new Random();
     private static final int MATRIX_LENGTH = 5;
 
-    // TODO: Uncomment testcase to test sumOfNumbersDivisibleByFive method.
-    /*
+
     @Test
     public void testSumOfNumbersDivisibleByFive() {
         int[][] matrix = {
@@ -24,10 +23,10 @@ public class MatrixTest {
 
         assertEquals(245, Matrix.sumOfNumbersDivisibleByFive(matrix));
     }
-    */
+
 
     // TODO: Uncomment testcase to test indexOfRowsWithZeros method.
-    /*
+
     @Test
     public void testIndexOfRowsWithZeros() {
         int[][] matrix = {
@@ -43,5 +42,5 @@ public class MatrixTest {
         assertEquals(1, actual.size());
         assertTrue(actual.contains(4));
     }
-    */
+
 }
