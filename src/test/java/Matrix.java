@@ -5,9 +5,9 @@ public class Matrix {
 
         int sum =0;
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < matrix.length; i++) {
 
-            for (int j = 0; j < 5; j++) {
+            for (int j = 0; j < matrix.length; j++) {
                 if (matrix[i][j] % 5 ==0) {
 
 

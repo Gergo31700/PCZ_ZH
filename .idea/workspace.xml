@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72daff7d-51ae-4acb-beab-2885d81be7b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Timetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MatrixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MatrixTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TimetableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TimetableTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="72daff7d-51ae-4acb-beab-2885d81be7b9" name="Default Changelist" comment="x" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TimetableTest">
+  <component name="RunManager" selected="JUnit.MatrixTest">
     <configuration name="MatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pc2" />
       <option name="PACKAGE_NAME" value="" />
@@ -110,8 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TimetableTest" />
         <item itemvalue="JUnit.MatrixTest" />
+        <item itemvalue="JUnit.TimetableTest" />
         <item itemvalue="JUnit.TimetableTest.testScheduler" />
         <item itemvalue="JUnit.TimetableTest.testRemoveCourse" />
         <item itemvalue="JUnit.TimetableTest.testNewCourse" />
@@ -130,6 +119,14 @@
       <workItem from="1652015148306" duration="477000" />
       <workItem from="1652019561652" duration="633000" />
     </task>
+    <task id="LOCAL-00001" summary="x">
+      <created>1652434402295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652434402295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,5 +142,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="x" />
+    <option name="LAST_COMMIT_MESSAGE" value="x" />
   </component>
 </project>
